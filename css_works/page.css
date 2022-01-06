@@ -1,0 +1,7 @@
+div{
+    height: 300px;
+    width: 75%;
+    background-color: cornflowerblue;
+    border:solid rgb(189, 188, 107);
+    float: left;
+}

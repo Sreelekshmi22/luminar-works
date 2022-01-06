@@ -1,0 +1,19 @@
+h1{
+    color:darkgreen;
+}
+#a1{
+    color:rgb(151, 100, 151);
+}
+#a2{
+    color:darkturquoise;
+}
+.c1{
+    color:deeppink;
+}
+
+    body{
+        background-color: deepskyblue;
+    }
+    /* tag selector */
+    /*id selector # */
+    /* class selector .*/

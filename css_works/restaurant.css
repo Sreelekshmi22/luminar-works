@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./img/wallcofee.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color:rgb(33, 44, 82);
+    height: 1450px;
+    width:100%;
+}
+nav{
+    position: absolute;
+    align-items: center;
+    top: 0;
+    right: 0;
+    width: 70%;
+    /* background: rgba(255,255,255,0.5); */
+    height: 40px;
+    border-radius: 10px;
+    animation: anim_nav linear 1s 1;
+}
+ul{
+    width: 100%;
+}
+ul li{
+    width: 25%;
+    float: left;
+    line-height: 40px;
+    cursor: pointer;
+    list-style: none;
+    text-align: center;
+    transition: 1s;
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(5, 5, 5);
+}
+ul li:hover{
+    background: #561b04;
+    color: white;
+}

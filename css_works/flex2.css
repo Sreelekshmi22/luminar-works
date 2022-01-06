@@ -1,0 +1,19 @@
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: rgb(30, 210, 186);
+    display: flex;
+    /* justify-content: space;
+    /* right
+    left
+    spce-evenly
+    space-between */
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    width: 100px;
+    height: 300px;
+    background-color: rgb(18, 19, 104);
+    border: rgb(85, 145, 17) 3px solid;
+}

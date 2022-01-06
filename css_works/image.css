@@ -1,0 +1,13 @@
+div{
+    height: 282px;
+    width: 30%;
+    background-color: #823d8b;
+    border: solid deeppink;
+    float: left;
+}
+img{
+    width: 38%;
+}
+div img{
+    width: 70%;
+}

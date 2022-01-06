@@ -1,0 +1,19 @@
+div{
+    margin:0;
+    box-sizing: border-box;
+    text-align: center;
+}
+div image{
+     height: 16px;
+     width: 50px;
+     margin-left: 10px;
+     
+}
+body{
+    background-color: rgb(194, 115, 78);
+}
+h1{
+    background-color: burlywood;
+    font-style: oblique;
+    font-size:xx-large;
+}

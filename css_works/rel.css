@@ -1,0 +1,38 @@
+.row{
+    border:solid black;
+    width: 500px;
+    height: 500px;
+    background-color: burlywood;
+    position: relative;
+}
+.col{
+    height: 200px;
+    width: 100px;
+    background-color:solid 2px black;
+}
+.col-1{
+    position: absolute;
+    background-color: blue;
+}
+.col-2{
+    position: absolute;
+    background-color: brown;
+    left: 105px;
+}
+.col-3{
+    position: absolute;
+    background-color: rgb(88, 32, 84);
+    left: 210px;
+}
+.col-4{
+    position: absolute;
+    background-color: darkred;
+    left: 320px;
+    
+}
+body{
+    background-image: url(./pexels-photo-3227984.jpeg);
+    /* backgroundsize: cover; */
+    background-repeat: no-repeat;
+    background-position: center;
+}
